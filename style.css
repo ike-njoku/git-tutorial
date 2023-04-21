@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+nav {
+  padding:1% ;
+}
+
+ul li {
+  display: inline-block;
+  border: solid 1px black;
+  padding: 1%;
+}
+
+a {
+  text-decoration: none;
+}
+
+#logo {
+  border: none;
+  margin-right: 10%;
+}
+
+#main {
+  padding: 10%;
+  width: 50%;
+  margin: auto;
+}
